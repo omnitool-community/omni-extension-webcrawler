@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "outFile": "../server/extension.js",
+    "rootDir": ".",
+    "allowJs": true,
+    "target": "es2021",
+    "module": "System",
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
+    "types": ["node"],
+    "sourceMap": false,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+
+    "lib": ["es2021"],
+  },
+  "include": [
+    "extension.ts"
+  ]
+}

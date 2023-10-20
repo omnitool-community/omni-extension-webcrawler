@@ -1,0 +1,9 @@
+title: Web Crawler
+version: 0.0.1
+description: A extension to provide blocks for web crawling
+author: Nick Yang
+origin: https://github.com/nieny225/omni-extension-webcrawler.git
+client:
+  addToWorkbench: false
+supports:
+  - "blocks:v2"

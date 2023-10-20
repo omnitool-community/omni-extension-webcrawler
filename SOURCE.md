@@ -1,0 +1,2 @@
+This Omnitool.community NON-CORE Extension is provided to you under the MIT license, the full text of which is included in the LICENSE.md file.
+The file ORIGIN.md lists the URL of the latest version of the source code for this Omnitool.ai NON-CORE Extension.
